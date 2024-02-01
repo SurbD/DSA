@@ -1,5 +1,4 @@
 import sys
-from random import randint
 from load import load_strings
 
 names = load_strings(sys.argv[1])
